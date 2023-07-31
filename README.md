@@ -39,7 +39,7 @@ Classes will be delivered on the TUD Grangegorman Campus on a weekly basis. Depe
 30. Searching Algorithms
 31. Sorting Algorithms
 32. Optimizing Python code
-33. Dissecting the Serpent: Understanding the implementeation of Python
+33. Dissecting the Serpent: Understanding the implementation of Python
 
 ### **NOTE**
 - Each chapter should take roughly half a class to complete.
