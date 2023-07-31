@@ -4,24 +4,44 @@ Creative Coding is a course designed and taught by David Lynch on behalf of CS++
 
 The core ethos of Creative Coding is to encourage *collaboration and expression* through code! It's key to welcome everyone no matter their background or programming level and stoke their interest and passion in computing.
 
+## Course Delivery
+Classes will be delivered on the TUD Grangegorman Campus on a weekly basis. Depending on demand, an online delivery method is being considered.
+
 ## Chapters
 1. Introduction to Creative Coding
 2. Your First Python Programs
 3. Variables and Basic Datatypes
-4. Boolean Algebra
-5. Conditional Logic
-6. While Loops
-7. Lists and Tuples
-8. For Loops
-9. Functions
-10. Classes and Objects
-11. Functional Programming
-12. Object Oriented Programming
-13. Coding Standards
-14. Linked Lists
-15. Stacks & Queues
-16. Searching Algorithms
-17. Sorting Algorithms
+4. Using python in the command line
+5. Boolean Algebra
+6. Conditional Logic
+7. Introduction to git and github (Adrian maybe)
+8. While Loops
+9. Lists and Tuples
+10. For Loops
+12. Functions
+13. Library imports, and creating your own libraries.
+14. Classes and Objects
+15. OS Fundementals
+16. Functional Programming
+17. File I/O
+18. Object Oriented Programming
+19. Discord Bot Workshop
+20. Function Decorators
+21. Coding Standards
+22. Introduction to Processing
+23. 2D Primitives
+24. Animating in Processing
+25. Handling Keyboard and Mouse input
+26. Constructing Simulations in Processing
+27. Linked Lists
+28. Stacks & Queues
+29. Heaps
+30. Searching Algorithms
+31. Sorting Algorithms
+32. Optimizing Python code
+33. Dissecting the Serpent: Understanding the implementeation of Python
 
 ### **NOTE**
-This course is for recreational purposes only. There are no exams or assignments at the end or throughout this course, with saying that there will be no certification or any similar document provided upon completion of the material.
+- Each chapter should take roughly half a class to complete.
+- This course is and always will be free, any modifications to source material must be distributed in accordance with the attached license.
+- This course is for recreational purposes only. There are no exams or assignments at the end or throughout this course, with saying that there will be no certification or any similar document provided upon completion of the material.
