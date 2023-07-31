@@ -20,26 +20,28 @@ Classes will be delivered on the TUD Grangegorman Campus on a weekly basis. Depe
 10. For Loops
 12. Functions
 13. Library imports, and creating your own libraries.
-14. Classes and Objects
-15. OS Fundementals
-16. Functional Programming
-17. File I/O
-18. Object Oriented Programming
-19. Discord Bot Workshop
-20. Function Decorators
-21. Coding Standards
-22. Introduction to Processing
-23. 2D Primitives
-24. Animating in Processing
-25. Handling Keyboard and Mouse input
-26. Constructing Simulations in Processing
-27. Linked Lists
-28. Stacks & Queues
-29. Heaps
-30. Searching Algorithms
-31. Sorting Algorithms
-32. Optimizing Python code
-33. Dissecting the Serpent: Understanding the implementation of Python
+14. Dictionaries
+15. Classes and Objects
+16. OS Fundementals
+17. Functional Programming
+18. File I/O
+19. Object Oriented Programming
+20. Discord Bot Workshop
+21. Function Decorators
+22. Coding Standards
+23. Introduction to Processing
+24. 2D Primitives
+25. Animating in Processing
+26. Handling Keyboard and Mouse input
+27. Constructing Simulations in Processing
+28. Linked Lists
+29. Stacks & Queues
+30. Heaps
+31. Searching Algorithms
+32. Sorting Algorithms
+33. Optimizing Python code
+34. Dissecting the Serpent: Understanding the implementation of Python
+35. Field Trip: Utah teapot in smithfield + beverages/food in Bonobo
 
 ### **NOTE**
 - Each chapter should take roughly half a class to complete.
