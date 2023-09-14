@@ -10,8 +10,8 @@ Classes will be delivered on the TUD Grangegorman Campus on a weekly basis. Depe
 ## Chapters
 1. Introduction to Creative Coding
 2. Your First Python Programs
-3. Variables and Basic Datatypes
-4. Using python in the command line
+3. Using Python in the command line
+4. Variables and Basic Datatype
 5. Boolean Algebra
 6. Conditional Logic
 7. Introduction to git and github (Adrian maybe)
